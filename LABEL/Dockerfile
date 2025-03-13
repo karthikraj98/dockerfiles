@@ -1,4 +1,4 @@
-FROM almalinux:v9
+FROM almalinux:9
 LABEL author="sivakumar reddy" \
       company="joindevops" \
       topic="dockerfiles" \
